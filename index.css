@@ -1,0 +1,21 @@
+div.block {
+    display: inline-block;
+    height: 10px;
+    width: 10px;
+    margin: 1px;
+    background-color: brown;
+}
+
+div.empty-block {
+    display: inline-block;
+    height: 10px;
+    width: 10px;
+    margin: 1px;
+    background-color: white;
+}
+
+div.block-line {
+    display: block;
+    margin: 0px;
+    height: 12px;
+}
